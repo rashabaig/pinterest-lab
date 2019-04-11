@@ -9682,16 +9682,16 @@ img {
   border-radius: 8px;
   background-color: white;
   height: auto;
+  width: 500px;
 }
 
 .text {
   padding: 30px;
-  height: 80%;
 }
 
 i {
   color: red;
-  font-size: 40px;
+  font-size: 70px;
   position: absolute;
   z-index: 3;
 }
@@ -9700,7 +9700,7 @@ h1 {
   color: #3f3d3d;
   margin-bottom: 0px;
   margin-top: 0;
-  font-size: 72px;
+  font-size: 60px;
 }
 
 h3 {
