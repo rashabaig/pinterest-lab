@@ -9682,7 +9682,7 @@ img {
   border-radius: 8px;
   background-color: white;
   height: auto;
-  width: 500px;
+  width: 40%;
 }
 
 .text {
@@ -9700,7 +9700,7 @@ h1 {
   color: #3f3d3d;
   margin-bottom: 0px;
   margin-top: 0;
-  font-size: 60px;
+  font-size: 50px;
 }
 
 h3 {
@@ -9755,11 +9755,6 @@ input {
   width: 70%;
   height: 30px;
   border-radius: 4px;
-}
-
-button {
-  display: flex;
-  justify-content: left;
 }
 
 /*# sourceMappingURL=/style.1dc133ea.css.map */
